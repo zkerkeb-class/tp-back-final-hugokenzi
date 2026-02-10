@@ -52,8 +52,8 @@
       "french": "Florizarre"
     },
     "type": [
-      "Grass",
-      "Poison"
+      "grass",
+      "poison"
     ],
     "base": {
       "HP": 80,
