@@ -8,8 +8,8 @@
       "french": "Bulbizarre"
     },
     "type": [
-      "Grass",
-      "Poison"
+      "grass",
+      "poison"
     ],
     "base": {
       "HP": 45,
@@ -30,8 +30,8 @@
       "french": "Herbizarre"
     },
     "type": [
-      "Grass",
-      "Poison"
+      "grass",
+      "poison"
     ],
     "base": {
       "HP": 60,
@@ -52,8 +52,8 @@
       "french": "Florizarre"
     },
     "type": [
-      "Grass",
-      "Poison"
+      "grass",
+      "poison"
     ],
     "base": {
       "HP": 80,
